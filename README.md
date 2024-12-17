@@ -13,4 +13,3 @@
    - Update Cover and Profile Images  
 📷 Image Uploads Integrated with Cloudinary  
 🔔 Real-Time Notifications  
-🌐 Deployed and Live  
